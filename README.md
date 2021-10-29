@@ -24,14 +24,14 @@
 - **model\_4\_6\_Extract\_MFCCs\_features.h5** : Extract MFCCs Features ( **73% Accuracy** )
 
 # Documentation 🎯:
-[Python](https://www.python.org/)
-[Tensorflow](https://www.tensorflow.org/)
-[Keras](https://keras.io/)
-[Librosa](https://librosa.org/doc/)
-[Numpy](https://numpy.org/doc/)
-[Pandas](https://pandas.pydata.org/docs/)
-[Scikit-Learn](https://scikit-learn.org/)
-[Matplotlib](https://matplotlib.org/stable/contents.html)
+- [Python](https://www.python.org/)
+- [Tensorflow](https://www.tensorflow.org/)
+- [Keras](https://keras.io/)
+- [Librosa](https://librosa.org/doc/)
+- [Numpy](https://numpy.org/doc/)
+- [Pandas](https://pandas.pydata.org/docs/)
+- [Scikit-Learn](https://scikit-learn.org/)
+- [Matplotlib](https://matplotlib.org/stable/contents.html)
 
 # Final Note 📔:
 * <h3> Bug fixing, Code error or Anything Raise issue🤚. If it any have.</h3>
