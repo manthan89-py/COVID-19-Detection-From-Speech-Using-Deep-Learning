@@ -34,11 +34,11 @@
 - [Matplotlib](https://matplotlib.org/stable/contents.html)
 
 # Final Note 📔:
-* <h3> Bug fixing, Code error or Anything Raise issue🤚. If it any have.</h3>
-* <h3> Happy to hear your sugesstions🤝 about this project.</h3>
-* <h3> Feel Free to Give ⭐ to this Repository.</h3>
-* <h3> Thank you very much for visiting ❤️.</h3>
-* <h3> Stay Safe✌️ and Stay Healthy✌️.</h3>
+* Bug fixing, Code error or Anything Raise issue🤚. If it any have.
+* Happy to hear your sugesstions🤝 about this project.
+* Feel Free to Give ⭐ to this Repository.
+* Thank you very much for visiting ❤️.
+* Stay Safe✌️ and Stay Healthy✌️.
 
 # For More Documentation 🗽:
 - Read full Blog about this project [here]()
